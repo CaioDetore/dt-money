@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2025-02-02T21:10:40.651Z"
+    },
+    {
+      "description": "teste",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-02-04T18:47:04.042Z",
+      "id": 3
+    },
+    {
+      "description": "Pão 2",
+      "price": 3000,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-02-04T18:56:35.187Z",
+      "id": 4
     }
   ]
 }
