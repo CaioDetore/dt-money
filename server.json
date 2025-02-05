@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2025-02-04T18:56:35.187Z",
       "id": 4
+    },
+    {
+      "description": "Pão 3",
+      "price": 100,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-02-05T23:02:37.695Z",
+      "id": 5
     }
   ]
 }
